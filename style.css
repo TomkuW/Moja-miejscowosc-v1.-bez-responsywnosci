@@ -1,0 +1,192 @@
+body
+{
+	background-color: #89c431;
+	font-family: 'Verdana','Arial', sans-serif;
+}
+
+a:link
+{
+	color: white;
+	text-decoration:bold;
+}
+
+a:visited
+{
+	color:green;
+	text-decoration:bold;
+}
+
+#puszka
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	color: white;
+	margin-top:-45px;
+	margin-right:30px;
+	font-size: 44px;
+	font-weight: bold;
+	text-align:right;
+	float:right;
+}
+
+#hasloprzewodnie
+{
+	color:green;
+	margin-top:-75px;
+	font-size: 20px;
+	text-align:right;
+	margin-right:30px;
+	padding-right:405px;
+	float:right;
+}
+
+#logoherb
+{
+	margin-top:25px;
+	margin-left:30px;
+	text-align:left;
+	display:block;
+}
+
+#menu
+{
+	
+	background-color: green;
+	margin-top: 25px;
+	color: #130F59;
+}
+
+#slider
+{
+	color: white;
+	padding: 0px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 313px;
+}
+
+#topbar
+{
+	background-color: #339900;
+	color: white;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 170px;
+}
+
+#topbarLewy
+{
+	float:left;
+	padding: 10px;
+	width: 138px;
+	text-align: center;
+	border-right: 2px dotted #cccccc;
+}
+
+#topbarPrawy
+{
+	float: left;
+	padding: 10px;
+	width: 760px;
+	font-size: 16px;
+	text-align: justify;
+	height: 15;
+}
+
+#zawartosc
+{
+	float: left;
+	padding: 20px 40px 40px 40px;
+	width: 600px;
+	background-color: #dedede;
+	min-height: 762px;
+	text-align: justify;
+}
+
+#zawartosccala
+{
+	float: left;
+	padding: 20px 40px 40px 40px;
+	width: 920px;
+	background-color: #dedede;
+	min-height: 280px;
+	text-align: justify;	
+}
+
+.box
+{
+	float:left;
+	padding:15px;
+	margin-left:25px;
+	width:265px;
+	background-color: #dedede;
+	height:227px;
+	margin-bottom:25px;
+}
+
+.box h3
+{
+	text-align: left;
+	padding-left:25px;
+}
+
+.box p
+{
+	text-align:left;
+	padding-left:25px;
+}
+
+#footer
+{
+	clear: both;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 12px;
+}
+
+#wyszukaj{
+	padding-left:15px;
+}
+
+.option
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 3px dotted #444444;
+}
+
+.option:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+	
+}
+
+.option a 
+{
+	display:block;
+	text-decoration:none;
+	color:white;
+}
+
+img.foto
+{
+	width:596px;
+	height:397px;
+	display:block;
+	margin:auto;
+}
+
+
+
+
